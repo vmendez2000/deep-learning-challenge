@@ -9,15 +9,14 @@
 * tensorflow
 * scikit-learn
 * matplotlib (optional for visualizations)
-### You can install the required libraries using the following command:
-- pip install -r requirements.txt
+
 ## File Structure
 
-│── README.md                            # This file
-│── AlphabetSoupCharity.h5               # Original model saved in HDF5 format
-│── AlphabetSoupCharity_Optimization.h5  # Optimized model saved in HDF5 format
-│── Report.txt                           # Text file of project report
-└── Module_21_Challenge.ipynb            # Jupyter Notebook
+### │── README.md                            # This file
+   │── AlphabetSoupCharity.h5               # Original model saved in HDF5 format
+   │── AlphabetSoupCharity_Optimization.h5  # Optimized model saved in HDF5 format
+   │── Report.txt                           # Text file of project report
+   └── Module_21_Challenge.ipynb            # Jupyter Notebook
 
 ## Project Workflow
 ### 1. Data Preprocessing
