@@ -16,6 +16,7 @@
 #### │── AlphabetSoupCharity.h5               # Original model saved in HDF5 format
 #### │── AlphabetSoupCharity_Optimization.h5  # Optimized model saved in HDF5 format
 #### │── Report.txt                           # Text file of project report
+#### │── AlphanerSoupCharity_Optimization,ipynb # Jupyter Notebook
 #### └── Module_21_Challenge.ipynb            # Jupyter Notebook
 
 ## Project Workflow
